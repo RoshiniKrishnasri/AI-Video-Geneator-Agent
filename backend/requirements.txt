@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+ffmpeg-python
+moviepy
+pillow
+gTTS
+python-dotenv
